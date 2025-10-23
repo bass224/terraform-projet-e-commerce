@@ -17,9 +17,9 @@ Mettre en place un pipeline data factory automatisé (terraform + ADF) pour copi
 3. Les données sont ainsi exportés au format csv vers la landing zone 
 
 ## Structure 
-terraform/
-adf/
-docs/
+terraform/  
+adf/  
+docs/  
 
 ## Trigger
 - Exécution automatique tous  les jours à hh:mm:ss
