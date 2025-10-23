@@ -10,7 +10,6 @@ crash.log
 *.pem
 *.key
 *.env
-*.json
 
 # VSCode / IDE / system
 .vscode/
