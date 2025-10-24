@@ -26,3 +26,7 @@ docs/
 
 ## Auteur
 Abdoul Bassity DIALLO / bass224
+
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![DataFactory](https://img.shields.io/badge/Data-Factory-lightblue)
