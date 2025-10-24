@@ -1,6 +1,12 @@
 # terraform-projet-e-commerce
 Projet full terraform et azure data factory 
 
+
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![DataFactory](https://img.shields.io/badge/Data-Factory-lightblue)
+
+
 ## Objectif 
 Mettre en place un pipeline data factory automatisé (terraform + ADF) pour copier les données de la table 'orders' de la base de données azure sql database vers le compte de stockage Azure data lake storage Gen2 (précisemet dans un container landing zone)
 
@@ -26,7 +32,3 @@ docs/
 
 ## Auteur
 Abdoul Bassity DIALLO / bass224
-
-![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)
-![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
-![DataFactory](https://img.shields.io/badge/Data-Factory-lightblue)
